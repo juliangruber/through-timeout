@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "repository": "juliangruber/through-timeout",
-  "description": "Through scream that calls a cb when no data has been written after the first x seconds",
+  "description": "Through stream that calls a cb when no data has been written after the first x seconds",
   "devDependencies": {
     "semistandard": "^8.0.0",
     "tape": "^4.6.0"

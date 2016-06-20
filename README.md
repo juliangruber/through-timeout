@@ -1,7 +1,7 @@
 
 # through-timeout
 
-Through scream that calls a cb when no data has been written after the first x seconds.
+Through stream that calls a cb when no data has been written after the first x seconds.
 
 ## Example
 
