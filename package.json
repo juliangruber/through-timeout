@@ -5,7 +5,7 @@
   "repository": "juliangruber/through-timeout",
   "description": "Through stream that calls a cb when no data has been written after the first x seconds",
   "devDependencies": {
-    "semistandard": "^9.1.0",
+    "semistandard": "^9.2.0",
     "tape": "^4.6.0"
   },
   "scripts": {
